@@ -1,6 +1,6 @@
 ### नमस्ते 🙏🏻 
 
-#### I'm Rashil, a CSE postgraduate at IIT Kharagpur
+#### I'm Rashil, a CSE postgraduate from IIT Kharagpur
 
 [![spotify-info](https://spotify-github-profile.vercel.app/api/view?uid=rashil2000&cover_image=true&theme=natemoo-re&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rashil2000&redirect=true)
 
